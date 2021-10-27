@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![piyush srivastava](https://user-images.githubusercontent.com/67270567/139023595-5f4bc49a-fe4d-4ae6-8cb4-05ff2f7f592f.jpg)
+
+
+ABOUT ME:
+Entry level java developer with intuitive problem solving skills, Passionate about implementing new projects. Like to solve problems and fix errors. I am a detail oriented person, keep my goals and tasks organized to maintain productivity. Looking forward to implement and polish my skills in a reputed firm driven by technology.
+
+
+[![PIYUSH SRIVASTAVA github stats](https://github-readme-stats.vercel.app/api?username=piyush-sri)](https://github.com/piyush-sri)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-sri&layout=compact)](https://github.com/piyush-sri)
