@@ -28,7 +28,7 @@ Entry level java developer with intuitive problem solving skills, Passionate abo
 - Ask Me About Web Development and Backend with Springboot.
 -Currently Learning Springboot with Java.
 - Learning the art of solving Data Structures and Algorithm.
--Currently Pursuing BCA and Nielit B Level Certification(Equivalent to MCA) as per Central Government Guidelines.
+- Currently Pursuing BCA and Nielit B Level Certification(Equivalent to MCA) as per Central Government Guidelines.
 - I am an Instructor at IPT Computer Institute where I  trained 100+ Candidates in the field of Web Development and Programming Language like Javascript and Python.
 - Contact me using my email-- piyushhh.srivastava@gmail.com
 - WON Hacktoberfest 2022,Here are my Holophins I earned as a reward.<br>
